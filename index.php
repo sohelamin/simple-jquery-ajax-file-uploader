@@ -28,8 +28,6 @@
 					type: 'POST',
 					url: formURL,
 					data: formData,
-					cache: false,
-					mimeType: 'multipart/form-data',
 					processData: false, 
 					contentType: false
 				})
